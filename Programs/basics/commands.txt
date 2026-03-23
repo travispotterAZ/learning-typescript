@@ -1,0 +1,8 @@
+Create Config File: tsc --init
+
+Compile TypeScript to JavaScript out directory: tsc index.ts or just tsc
+
+Run .js code: node dist/index.js
+
+
+
